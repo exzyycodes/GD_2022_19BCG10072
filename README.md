@@ -3,7 +3,7 @@ GameDEV test for HITWICKET recruitments
 ## INSTRUCTIONS
 1. Download DoofusGamr.rar from PlayableDoofusRuns folder and extract the downloaded files.
 2. Run DoofusRuns.exe file to play the game.
-3. 3. The raw files for asstes, packages, user setting etc can be found in the same branch.
+3. The raw files for asstes, packages, user setting etc can be found in the same branch.
 #### IDEA BEHIND THE GAME
 The basic idea behind the game was to create a simple level based game where the player has to move to and stay on the planes that appear in the game.
 The game character is called Doofus and the plane(objects) are knows as pulpit. The pulpits are spawned and destroyed in fixed intervals and the player has to keep moving doofus using "wasd" keys to make sure it stays on a pulpit at any given time to continue the game.
