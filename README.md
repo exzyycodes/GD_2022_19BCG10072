@@ -3,7 +3,7 @@ GameDEV test for HITWICKET recruitments
 ## INSTRUCTIONS
 The Game scripts with proper comments and explanations are uploaded for users to view.
 To play the game kindly follow these steps-
-1. Download DoofusGame.rar
+1. Download DoofusRuns.rar
 2. Unzip the file and extract to a folder.
 3. Check and run DoofusGame.exe file to enjoy the game.
 #### DEVELOPMENT SUMMARY
