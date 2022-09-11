@@ -1,7 +1,7 @@
 # GD_2022_19BCG10072
 GameDEV test for HITWICKET recruitments
 ## INSTRUCTIONS
-1.Download DoofusGamr.rar and extract the downloaded files.
+1.Download DoofusGamr.rar from PlayableDoofusRuns folder and extract the downloaded files.
 2. Run DoofusRuns.exe file to play the game.
 3. The raw files for asstes, packages, user setting etc can be found in the same branch.
 #### IDEA BEHIND THE GAME
