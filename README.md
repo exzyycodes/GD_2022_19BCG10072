@@ -15,4 +15,4 @@ Whenever a game over is triggered the game over scene is played which has option
 The main menu scene has options to play game ,quit , or to read instructions on how to play.
 Basic audio files has been added from used asstes bundle to add effects on events.
 ###### CREDITS
-This game project has been developed as a 
+This game project has been developed as a submission to the hitwicket assesment for game developer by Nitin Kumar Singh, 19BCG10072.
