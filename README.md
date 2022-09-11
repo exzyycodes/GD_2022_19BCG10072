@@ -4,7 +4,7 @@ GameDEV test for HITWICKET recruitments
 The Game scripts with proper comments and explanations are uploaded for users to view.
 To play the game kindly follow these steps-
 1. Download DoofusGame.rar
-2.Unzip the file and extract to a folder.
+2. Unzip the file and extract to a folder.
 3. Check and run DoofusGame.exe file to enjoy the game.
 #### DEVELOPMENT SUMMARY
 As per the guidlines provided by hitwicket to complete this project, i started working on it on 10/9/2022 at 17:00 hours. The project is developed on 3D (URP) template of unity. the main game scene contains of two basic game objects Pulpits(plane) and Doofus(player). The Pulpit object has spawner,timer(withdestroyer), swapper etc scripts tagged which provides  the basic timer, random spawn and didappear after a time span functionalities to it.
